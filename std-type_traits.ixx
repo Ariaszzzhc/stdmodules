@@ -54,4 +54,7 @@ export namespace std {
 
   using std::invoke_result;
   using std::invoke_result_t;
+
+  using std::underlying_type;
+  using std::underlying_type_t;
 }  // namespace std
