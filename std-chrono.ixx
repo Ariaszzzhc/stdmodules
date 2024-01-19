@@ -27,6 +27,8 @@ export namespace std {
     using std::chrono::time_point;
 
     using std::chrono::high_resolution_clock;
+
+    using std::chrono::system_clock;
   }  // namespace chrono
 }  // namespace std
 export namespace std {
